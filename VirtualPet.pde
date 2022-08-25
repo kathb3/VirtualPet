@@ -2,6 +2,7 @@ size(400,400);
 PImage train = loadImage("emptytrain.jpg");
 train.resize(400, 400);
 background(train);
+// i want to make this flicker
 noStroke();
 fill(0);
 ellipse(200,410,200,750);
