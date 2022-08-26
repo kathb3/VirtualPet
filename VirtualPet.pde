@@ -1,5 +1,6 @@
 size(400,400);
 // i want to make this flicker
+//background: https://images.pexels.com/photos/374665/pexels-photo-374665.jpeg?cs=srgb&dl=empty-train-interior-374665.jpg&fm=jpg
 noStroke();
 fill(0);
 ellipse(200,410,200,750);
