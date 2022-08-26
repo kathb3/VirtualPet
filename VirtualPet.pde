@@ -1,7 +1,4 @@
 size(400,400);
-PImage train = loadImage("emptytrain.jpg");
-train.resize(400, 400);
-background(train);
 // i want to make this flicker
 noStroke();
 fill(0);
