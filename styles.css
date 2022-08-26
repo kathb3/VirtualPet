@@ -20,6 +20,6 @@ footer {
 	font-size: 90%;
 }
 
-section{
-	background-image: url('https://images.pexels.com/photos/374665/pexels-photo-374665.jpeg?cs=srgb&dl=empty-train-interior-374665.jpg&fm=jpg');
+.content{
+	background-image: url('emptytrain.jpg');
 }
