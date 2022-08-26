@@ -19,3 +19,7 @@ footer {
 	font-style: italic;
 	font-size: 90%;
 }
+
+.content{
+	background-image: url('img_girl.jpg');
+}
